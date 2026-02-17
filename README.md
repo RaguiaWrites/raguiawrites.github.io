@@ -83,9 +83,9 @@ Portfolio: [RaguiaWrites.github.io](https://RaguiaWrites.github.io)
 
 - English (Native)
 - Arabic (Native)
-- German (Professional)
-- French (Conversational)
-- Spanish (Basic)
+- German (Native)
+- French (Native)
+- Spanish (Native)
 
 ---
 
