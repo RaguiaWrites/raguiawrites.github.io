@@ -2,7 +2,7 @@
 
 **Ex-Google** | 10+ years in content, SEO, CRM & localization | Published in The Washington Post, Al Jazeera, NPR, AP
 
-Portfolio: [raguiamostafa.github.io](https://raguiamostafa.github.io)
+Portfolio: [RaguiaWrites.github.io](https://RaguiaWrites.github.io)
 
 ---
 
@@ -97,6 +97,6 @@ HubSpot · Mailchimp · Braze · SEMrush · Ahrefs · Google Analytics · Google
 
 ## Contact
 
-- Email: [raguiamostafa@gmail.com](mailto:raguiamostafa@gmail.com)
+- Email: [mostafa.raguia@gmail.com](mailto:mostafa.raguia@gmail.com)
 - LinkedIn: [linkedin.com/in/raguiamostafa](https://linkedin.com/in/raguiamostafa)
-- Portfolio: [raguiamostafa.github.io](https://raguiamostafa.github.io)
+- Portfolio: [RaguiaWrites.github.io](https://RaguiaWrites.github.io)
