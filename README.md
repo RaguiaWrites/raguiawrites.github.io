@@ -98,5 +98,5 @@ HubSpot · Mailchimp · Braze · SEMrush · Ahrefs · Google Analytics · Google
 ## Contact
 
 - Email: [mostafa.raguia@gmail.com](mailto:mostafa.raguia@gmail.com)
-- LinkedIn: [linkedin.com/in/raguiamostafa](https://linkedin.com/in/raguiamostafa)
+- LinkedIn: [linkedin.com/in/mostafaraguia](https://linkedin.com/in/mostafaraguia)
 - Portfolio: [RaguiaWrites.github.io](https://RaguiaWrites.github.io)
