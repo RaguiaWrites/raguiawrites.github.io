@@ -204,17 +204,9 @@
         }
 
         .hero-inner {
-            max-width: 1200px;
+            max-width: 1080px;
             margin: 0 auto;
             width: 100%;
-            display: grid;
-            grid-template-columns: 1.05fr 0.95fr;
-            gap: 4.5rem;
-            align-items: center;
-        }
-
-        .hero-main {
-            min-width: 0;
         }
 
         .hero-label {
@@ -230,11 +222,11 @@
 
         .hero h1 {
             font-family: 'Instrument Serif', serif;
-            font-size: clamp(2.4rem, 4vw, 3.9rem);
+            font-size: clamp(3rem, 6.4vw, 5.8rem);
             font-weight: 400;
-            line-height: 1.06;
+            line-height: 1.05;
             color: var(--ink);
-            margin-bottom: 2rem;
+            margin-bottom: 2.2rem;
             opacity: 0;
             animation: fadeUp 0.8s ease 0.4s forwards;
         }
@@ -245,8 +237,8 @@
         }
 
         .hero-description {
-            max-width: 540px;
-            font-size: 1.1rem;
+            max-width: 640px;
+            font-size: 1.15rem;
             color: var(--warm-gray);
             line-height: 1.8;
             opacity: 0;
@@ -300,67 +292,29 @@
             border-color: var(--terracotta);
         }
 
-        .hero-panel {
-            position: relative;
-            border: 1px solid var(--warm-gray-light);
-            border-radius: 6px;
-            background: linear-gradient(155deg, rgba(196,101,74,0.07), rgba(245,237,227,0.35));
-            padding: 3rem 2.6rem;
+        .hero-languages {
             display: flex;
-            flex-direction: column;
-            align-items: flex-start;
-            justify-content: center;
-            min-height: 340px;
-            overflow: hidden;
+            gap: 0.6rem;
+            margin-top: 2.6rem;
+            flex-wrap: wrap;
             opacity: 0;
-            animation: fadeUp 0.7s ease 0.45s forwards;
+            animation: fadeUp 0.8s ease 0.9s forwards;
         }
 
-        .hero-panel-kicker {
+        .lang-tag {
             font-family: 'JetBrains Mono', monospace;
-            font-size: 0.68rem;
-            letter-spacing: 0.18em;
-            text-transform: uppercase;
+            font-size: 0.72rem;
+            letter-spacing: 0.08em;
+            padding: 0.45rem 1rem;
+            border: 1px solid var(--warm-gray-light);
+            border-radius: 2px;
             color: var(--warm-gray);
-            margin-bottom: 1.6rem;
+            transition: all 0.3s ease;
         }
 
-        .hero-rotator {
-            height: 5rem;
-            display: flex;
-            align-items: center;
-            width: 100%;
-        }
-
-        .rotator-word {
-            font-family: 'Instrument Serif', serif;
-            font-size: clamp(3rem, 4.5vw, 4.4rem);
-            line-height: 1;
+        .lang-tag:hover {
+            border-color: var(--terracotta);
             color: var(--terracotta);
-            transition: opacity 0.4s ease, transform 0.4s ease;
-        }
-
-        .rotator-lang {
-            font-family: 'JetBrains Mono', monospace;
-            font-size: 0.8rem;
-            letter-spacing: 0.15em;
-            text-transform: uppercase;
-            color: var(--charcoal);
-            margin-top: 0.5rem;
-            transition: opacity 0.4s ease;
-        }
-
-        .hero-panel-creds {
-            margin-top: 2.4rem;
-            padding-top: 1.6rem;
-            border-top: 1px solid var(--warm-gray-light);
-            width: 100%;
-            font-family: 'JetBrains Mono', monospace;
-            font-size: 0.66rem;
-            letter-spacing: 0.12em;
-            text-transform: uppercase;
-            color: var(--warm-gray);
-            line-height: 2;
         }
 
         /* faster, never-blank hero reveal */
@@ -370,11 +324,10 @@
         .hero-cta-row { animation-delay: 0.35s; }
 
         @media (prefers-reduced-motion: reduce) {
-            .hero-label, .hero h1, .hero-description, .hero-cta-row, .hero-panel {
+            .hero-label, .hero h1, .hero-description, .hero-cta-row, .hero-languages {
                 opacity: 1 !important;
                 animation: none !important;
             }
-            .rotator-word, .rotator-lang { transition: none !important; }
         }
 
         /* -- SECTION STYLING -- */
@@ -1047,17 +1000,6 @@
             .hero {
                 padding: 5rem 1.5rem 3rem;
             }
-            .hero-inner {
-                grid-template-columns: 1fr;
-                gap: 2.5rem;
-            }
-            .hero-panel {
-                min-height: auto;
-                padding: 2.2rem 1.8rem;
-            }
-            .hero-rotator {
-                height: 4rem;
-            }
             .about-inner {
                 grid-template-columns: 1fr;
                 gap: 3rem;
@@ -1138,25 +1080,22 @@
     <!-- HERO -->
     <section class="hero">
         <div class="hero-inner">
-            <div class="hero-main">
-                <p class="hero-label">Writer &middot; Strategist &middot; Storyteller</p>
-                <h1>Words that move<br>across <em>languages,</em><br>borders &amp; screens</h1>
-                <p class="hero-description">
-                    10+ years in content, SEO, and CRM. Ex-Google. Published in The Washington Post, Al Jazeera, NPR, and AP. I write, localize, and strategize across five languages for brands that need to rank, convert, and connect.
-                </p>
-                <div class="hero-cta-row">
-                    <a href="mailto:mostafa.raguia@gmail.com" class="hero-cta">Hire Me</a>
-                    <a href="#work" class="hero-cta-secondary">See My Work</a>
-                </div>
+            <p class="hero-label">Writer &middot; Strategist &middot; Storyteller</p>
+            <h1>Words that move across <em>languages</em>, borders &amp; screens</h1>
+            <p class="hero-description">
+                10+ years in content, SEO, and CRM. Ex-Google. Published in The Washington Post, Al Jazeera, NPR, and AP. I write, localize, and strategize across five languages for brands that need to rank, convert, and connect.
+            </p>
+            <div class="hero-cta-row">
+                <a href="mailto:mostafa.raguia@gmail.com" class="hero-cta">Hire Me</a>
+                <a href="#work" class="hero-cta-secondary">See My Work</a>
             </div>
-            <aside class="hero-panel" aria-hidden="true">
-                <span class="hero-panel-kicker">The same idea, five ways</span>
-                <div class="hero-rotator">
-                    <span class="rotator-word" id="rotatorWord" dir="auto">Words</span>
-                </div>
-                <span class="rotator-lang" id="rotatorLang">English</span>
-                <div class="hero-panel-creds">Ex-Google &middot; The Washington Post &middot; Al Jazeera &middot; NPR &middot; AP</div>
-            </aside>
+            <div class="hero-languages">
+                <span class="lang-tag">English</span>
+                <span class="lang-tag">Fran&ccedil;ais</span>
+                <span class="lang-tag">Deutsch</span>
+                <span class="lang-tag">Espa&ntilde;ol</span>
+                <span class="lang-tag">&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</span>
+            </div>
         </div>
     </section>
 
@@ -1933,30 +1872,6 @@
                 }
             });
         });
-
-        // Hero multilingual rotator
-        (function(){
-            const pairs = [
-                ['Words','English'],
-                ['Mots','Français'],
-                ['Wörter','Deutsch'],
-                ['Palabras','Español'],
-                ['كلمات','العربية']
-            ];
-            const w = document.getElementById('rotatorWord');
-            const l = document.getElementById('rotatorLang');
-            if(!w || !l) return;
-            let i = 0;
-            setInterval(function(){
-                w.style.opacity = '0'; w.style.transform = 'translateY(-6px)'; l.style.opacity = '0';
-                setTimeout(function(){
-                    i = (i + 1) % pairs.length;
-                    w.textContent = pairs[i][0];
-                    l.textContent = pairs[i][1];
-                    w.style.opacity = '1'; w.style.transform = 'translateY(0)'; l.style.opacity = '1';
-                }, 400);
-            }, 2600);
-        })();
     </script>
 
 </body>
