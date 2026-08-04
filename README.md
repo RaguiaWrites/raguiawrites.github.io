@@ -1,102 +1,58 @@
-# Raguia Mostafa — Multilingual Content Strategist & SEO Writer
+# Raguia Mostafa: Head of Marketing | Direct Booking, SEO & CRM
 
-**Ex-Google** | 10+ years in content, SEO, CRM & localization | Published in The Washington Post, Al Jazeera, NPR, AP
+**Ex-Google** | 12+ years across hospitality, iGaming, tech and media | Native EN / AR / FR / DE / ES  
+Published in The Washington Post, Al Jazeera English, NPR, AP and Newsweek
 
 Portfolio: [RaguiaWrites.github.io](https://RaguiaWrites.github.io)
 
 ---
 
-## What I Do
+## What I do
 
-- **SEO & Content Strategy** — Keyword research, content audits, editorial calendars, on-page optimization
-- **Multilingual Copywriting** — Native-level content in English, Arabic, German, French, and Spanish
-- **CRM & Email Marketing** — HubSpot, Mailchimp, Braze; lifecycle campaigns, segmentation, A/B testing
-- **Journalism & Longform** — Investigative features, profiles, cultural reporting
-- **iGaming & DACH Content** — Casino/sportsbook reviews, compliance-aware copy, German-market localization
-- **Brand & Social Content** — Campaigns for Google, SoftBank-backed startups, and regional publishers
+I take revenue back from the aggregators. For a hotel that means the OTA. For a casino operator it means the comparison site. Same job: win the search result, own the direct channel, and do it in the language the market actually thinks in.
 
 ---
 
-## Results
+## Most recent results
+
+**Head of Marketing, Stivala Group, Malta.** Five-brand hospitality portfolio including Accor's first ever property in Malta. Reported to the GM and CEO, managed a team of 3.
 
 | Metric | Result |
-|--------|--------|
-| Organic traffic growth | 40% YoY increase |
-| Email open rates | 12% → 57% |
-| User retention | +25% improvement |
-| Conversion rate | +18% lift |
-| Crowdfunding raised | $117,000 |
-| Google rankings | Top 5 for target keywords |
-| Websites managed | 100+ |
+|---|---|
+| Attributed direct revenue | EUR 148.7K in five months |
+| Direct bookings | 670 at 6.1% booking-engine conversion |
+| Source markets | 20 |
+| Average booking value | EUR 740 |
+| Onsite messaging | 26.6% of direct revenue from 6.7% of impressions, at 7.8% conversion |
+| Pre-arrival CRM | 81.7% open rate, 49.7% click-through |
+
+Also diagnosed a 4.1x desktop-to-mobile conversion gap on 74% mobile traffic, and a 62.9% share of demand booking 22+ days out.
 
 ---
 
-## Experience
+## Before that
 
-| Period | Role | Company |
-|--------|------|---------|
-| 2023–Present | Freelance Content Strategist | Independent |
-| 2022–2023 | Content & SEO Specialist | Rabbit Entertainment (Malta) |
-| 2021–2022 | Data Specialist | Google (via Appen) |
-| 2020–2021 | Content Manager | Reliato |
-| 2019–2020 | SEO Content Manager | N1 Partners Group |
-| 2018–2019 | Content Strategist | Game Lounge |
-| 2015–2018 | Journalist & Editor | Daily News Egypt, Cairo Scene |
-
----
-
-## Clients & Employers
-
-| Client | Sector |
-|--------|--------|
-| Google | Tech |
-| Rabbit Entertainment | iGaming |
-| Game Lounge | iGaming / Affiliate |
-| N1 Partners Group | iGaming |
-| Casino.org | iGaming |
-| Emirates Casino | iGaming |
-| SoftBank (Swvl) | Mobility / Startup |
-| Daily News Egypt | Media |
-
----
-
-## Published In
-
-- The Washington Post
-- Al Jazeera English
-- NPR
-- Associated Press
-- Newsweek
-- Daily News Egypt
-
----
-
-## Education
-
-- **BA in Journalism & Mass Communication** — The American University in Cairo (Magna Cum Laude)
-- **Semester Abroad** — Bard College, New York
-- **Abitur (German High School Diploma)** — Deutsche Evangelische Oberschule, Cairo
+- **Casino.org**: native German and French casino review content for the Luxembourg markets (de-lu, fr-lu), written per market rather than translated
+- **Game Lounge**: wrote 98% of emiratescasino.com, built the UAE casino brand end to end, grew DACH organic traffic +40% YoY
+- **Rabbit Entertainment Group**: German-market CRM and SEO, +25% player retention, +18% deposit conversions
+- **Reliato and N1 Partners**: campaign ROI +15%, top-5 Google rankings, technical SEO audits across betting and casino
+- **Google, Sunnyvale**: Data Specialist on Google Play Music. SEO, UX, CRM and localization
+- **Foreign correspondent, Cairo**: covered the Egyptian revolution and the 2011 elections for the Washington Post, Al Jazeera English, NPR, AP and Newsweek
 
 ---
 
 ## Languages
 
-- English (Native)
-- Arabic (Native)
-- German (Native)
-- French (Native)
-- Spanish (Native)
+English, Arabic, French, German, Spanish. All native. The German is backed by an Abitur from the Deutsche Evangelische Oberschule, not a language course.
 
 ---
 
-## Tools
+## Stack
 
-HubSpot · Mailchimp · Braze · SEMrush · Ahrefs · Google Analytics · Google Search Console · WordPress · Webflow · Figma · Notion · Slack · Asana · ChatGPT / Claude / Gemini
+Oracle OPERA, D-EDGE, SimpleBooking, Triptease, Oaky, TrustYou, Mailchimp, Meta Ads, WordPress, Ahrefs, Google Analytics 4, Search Console, Canva
 
 ---
 
-## Contact
-
-- Email: [mostafa.raguia@gmail.com](mailto:mostafa.raguia@gmail.com)
-- LinkedIn: [linkedin.com/in/mostafaraguia](https://linkedin.com/in/mostafaraguia)
-- Portfolio: [RaguiaWrites.github.io](https://RaguiaWrites.github.io)
+St Julian's, Malta. Open to remote.  
+mostafa.raguia@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/mostafaraguia/)
