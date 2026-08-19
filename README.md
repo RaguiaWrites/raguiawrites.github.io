@@ -1,7 +1,7 @@
 # Raguia Mostafa: Head of Marketing | Direct Booking, SEO & CRM
 
 **Ex-Google** | 12+ years across hospitality, iGaming, tech and media | Native EN / AR / FR / DE / ES  
-Published in The Washington Post, Al Jazeera English, NPR, AP and Newsweek
+Bylined in Al Jazeera English and Daily News Egypt | Research and field reporting for The Washington Post, NPR, AP and Newsweek
 
 Portfolio: [RaguiaWrites.github.io](https://RaguiaWrites.github.io)
 
@@ -38,7 +38,7 @@ Also diagnosed a 4.1x desktop-to-mobile conversion gap on 74% mobile traffic, an
 - **Rabbit Entertainment Group**: German-market CRM and SEO, +25% player retention, +18% deposit conversions
 - **Reliato and N1 Partners**: campaign ROI +15%, top-5 Google rankings, technical SEO audits across betting and casino
 - **Google, Sunnyvale**: Data Specialist on Google Play Music. SEO, UX, CRM and localization
-- **Foreign correspondent, Cairo**: covered the Egyptian revolution and the 2011 elections for the Washington Post, Al Jazeera English, NPR, AP and Newsweek
+- **Foreign correspondent, Cairo**: covered the Egyptian revolution and the 2011 elections. Bylined in Al Jazeera English and Daily News Egypt; research and field reporting for the Washington Post, NPR, AP and Newsweek
 
 ---
 
