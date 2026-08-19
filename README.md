@@ -15,7 +15,7 @@ I take revenue back from the aggregators. For a hotel that means the OTA. For a 
 
 ## Most recent results
 
-**Head of Marketing, Stivala Group, Malta.** Five-brand hospitality portfolio including Accor's first ever property in Malta. Reported to the GM and CEO, managed a team of 3.
+**Head of Marketing, Stivala Group, Malta.** Five-brand hospitality portfolio including Novotel Malta Sliema (Accor). Reported to the GM and CEO, managed a team of 3.
 
 | Metric | Result |
 |---|---|
@@ -33,7 +33,8 @@ Also diagnosed a 4.1x desktop-to-mobile conversion gap on 74% mobile traffic, an
 ## Before that
 
 - **Casino.org**: native German and French casino review content for the Luxembourg markets (de-lu, fr-lu), written per market rather than translated
-- **Game Lounge**: wrote 98% of emiratescasino.com, built the UAE casino brand end to end, grew DACH organic traffic +40% YoY
+- **Game Lounge**: built emiratescasino.com end to end as the UAE casino brand
+- **Game Lounge**: grew DACH organic traffic +40% YoY
 - **Rabbit Entertainment Group**: German-market CRM and SEO, +25% player retention, +18% deposit conversions
 - **Reliato and N1 Partners**: campaign ROI +15%, top-5 Google rankings, technical SEO audits across betting and casino
 - **Google, Sunnyvale**: Data Specialist on Google Play Music. SEO, UX, CRM and localization
