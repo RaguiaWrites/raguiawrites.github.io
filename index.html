@@ -1069,6 +1069,13 @@
                 gap: 1.5rem;
             }
         }
+    .roller-website, .roller-articles { grid-column: 1 / -1; }
+        .work-item.roller-articles { cursor: default; gap: 1.25rem; }
+        .roller-article-list { list-style: none; display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr)); gap: 1.2rem 2rem; }
+        .roller-article-list li { border-top: 1px solid var(--sand); padding-top: 1rem; min-width: 0; }
+        .roller-article-list a { color: var(--terracotta-deep); text-decoration-thickness: 1px; text-underline-offset: 3px; font-weight: 500; }
+        .roller-article-list a:hover { color: var(--charcoal); }
+        .roller-byline { display: block; color: var(--warm-gray); font-size: .8rem; margin-top: .35rem; }
     </style>
 </head>
 <body>
@@ -1483,7 +1490,7 @@
                             <span class="work-tag">Review</span>
                         </div>
                     </div>
-                </a><a href="https://therollermoller.com/" target="_blank" rel="noopener" class="work-item" data-category="creative">
+                </a><a href="https://therollermoller.com/" target="_blank" rel="noopener" class="work-item roller-website" data-category="creative">
                     <div class="work-item-top">
                         <span class="work-pub">The Roller Moller</span>
                         <span class="work-arrow">↗</span>
@@ -1497,7 +1504,30 @@
                             <span class="work-tag">Product Copy</span>
                         </div>
                     </div>
-                </a><a href="http://www.dailynewsegypt.com/2012/06/27/original-talent-2/" target="_blank" rel="noopener" class="work-item" data-category="creative">
+                </a>
+                <section class="work-item roller-articles" data-category="creative" aria-labelledby="roller-articles-title">
+                    <h3 id="roller-articles-title" class="work-item-title">The Roller Moller — Articles</h3>
+                    <ul class="roller-article-list">
+                        <li><a href="https://therollermoller.com/botanical-storage-wooden-organizers/" target="_blank" rel="noopener">Botanical Storage &amp; Care: The Benefits of Wooden Organizers</a><span class="roller-byline">By Raguia Mostafa</span></li>
+                        <li><a href="https://therollermoller.com/wisdom-tree-beginnings/" target="_blank" rel="noopener">Wisdom Tree Movement – The Beginnings (Part-1)</a><span class="roller-byline">By Raguia Mostafa</span></li>
+                        <li><a href="https://therollermoller.com/from-riga-with-smoke-the-bull-the-box-the-bond/" target="_blank" rel="noopener">The Roller Moller x Insomnia Design: A Natural Partnership</a><span class="roller-byline">By Raguia Mostafa</span></li>
+                        <li><a href="https://therollermoller.com/how-to-maintain-your-wooden-stash-box/" target="_blank" rel="noopener">How to Maintain Your Wooden Stash Box</a><span class="roller-byline">By Raguia Mostafa</span></li>
+                        <li><a href="https://therollermoller.com/birth-of-wooden-stash-box/" target="_blank" rel="noopener">From Cosmic Crumbs to Craftsmanship: The Birth of the Wooden Stash Box That Doesn’t Suck</a><span class="roller-byline">By Raguia Mostafa</span></li>
+                        <li><a href="https://therollermoller.com/what-is-a-wooden-storage-box/" target="_blank" rel="noopener">What Is a Wooden Storage Box? A Complete Guide to Fine Organizers</a><span class="roller-byline">By Raguia Mostafa</span></li>
+                        <li><a href="https://therollermoller.com/best-wooden-storage-boxes-2026/" target="_blank" rel="noopener">Best Wooden Storage Boxes 2026: A Buyer’s Guide for People Who Are Tired of Replacing Cheap Bamboo</a><span class="roller-byline">By Raguia Mostafa</span></li>
+                        <li><a href="https://therollermoller.com/what-belongs-in-a-wooden-storage-box/" target="_blank" rel="noopener">What Belongs in a Wooden Storage Box (and What Doesn’t)</a><span class="roller-byline">By Raguia Mostafa</span></li>
+                        <li><a href="https://therollermoller.com/why-every-organizer-needs-a-wooden-storage-box/" target="_blank" rel="noopener">Why Every Organizer Needs a Wooden Storage Box (And What Makes a Great One)</a><span class="roller-byline">By Raguia Mostafa</span></li>
+                        <li><a href="https://therollermoller.com/wooden-storage-box-spring-bbq/" target="_blank" rel="noopener">Spring BBQ Setup: How to Use a Wooden Storage Box Outdoors</a><span class="roller-byline">By Raguia Mostafa</span></li>
+                        <li><a href="https://therollermoller.com/fathers-day-gift-ideas-stoner-dad-2026/" target="_blank" rel="noopener">Upgrade Your Dad’s Ritual: Unique Gifts He’ll Love</a><span class="roller-byline">By Raguia Mostafa</span></li>
+                        <li><a href="https://therollermoller.com/how-to-choose-a-wooden-storage-box-5-things/" target="_blank" rel="noopener">How to Choose a Wooden Storage Box: 5 Things That Actually Matter</a><span class="roller-byline">By Raguia Mostafa</span></li>
+                        <li><a href="https://therollermoller.com/5-things-every-storage-setup-needs/" target="_blank" rel="noopener">The 5 Things Every Daily Storage Setup Needs (And One Box That Has Them All)</a><span class="roller-byline">By Raguia Mostafa</span></li>
+                        <li><a href="https://therollermoller.com/best-wooden-desktop-organizers-2026/" target="_blank" rel="noopener">Best Wooden Desktop Organizers of 2026: Hardwood Valets Ranked</a><span class="roller-byline">By Raguia Mostafa</span></li>
+                        <li><a href="https://therollermoller.com/wooden-storage-box-on-a-boat/" target="_blank" rel="noopener">On a Boat: Luxury Wooden Storage Boxes for Marine Lifestyle</a><span class="roller-byline">By Raguia Mostafa</span></li>
+                        <li><a href="https://therollermoller.com/the-perfect-wooden-storage-box-gift/" target="_blank" rel="noopener">The Perfect Gift: Handcrafted Wooden Storage Boxes for 2026</a><span class="roller-byline">By Raguia Mostafa</span></li>
+                        <li><a href="https://therollermoller.com/title-stash-box-style-guide/" target="_blank" rel="noopener">Stash Box Style Guide</a><span class="roller-byline">By Raguia Mostafa</span></li>
+                    </ul>
+                </section>
+                <a href="http://www.dailynewsegypt.com/2012/06/27/original-talent-2/" target="_blank" rel="noopener" class="work-item" data-category="creative">
                     <div class="work-item-top">
                         <span class="work-pub">Daily News Egypt</span>
                         <span class="work-arrow">↗</span>
@@ -1544,7 +1574,7 @@
                         <span class="work-arrow">↗</span>
                     </div>
                     <div class="work-item-bottom">
-                        <h3 class="work-item-title">Take It Easy With Titi</h3>
+                        <h3 class="work-item-title">Nefertiti · Take It Easy With Titi</h3>
                         <p class="work-item-desc">Stand-up, storytelling, and cultural observations in Arabic, English, and whatever fits the joke. Performed across Malta, recorded for YouTube.</p>
                         <div class="work-tags">
                             <span class="work-tag">Comedy</span>
@@ -1558,7 +1588,7 @@
                         <span class="work-arrow">↗</span>
                     </div>
                     <div class="work-item-bottom">
-                        <h3 class="work-item-title">Take It Easy With Titi</h3>
+                        <h3 class="work-item-title">Nefertiti · Take It Easy With Titi</h3>
                         <p class="work-item-desc">Short-form stand-up and cultural bits in Arabic, English, and whatever fits the joke. Performed across Malta.</p>
                         <div class="work-tags">
                             <span class="work-tag">Comedy</span>
@@ -1572,7 +1602,7 @@
                         <span class="work-arrow">↗</span>
                     </div>
                     <div class="work-item-bottom">
-                        <h3 class="work-item-title">Take It Easy With Titi</h3>
+                        <h3 class="work-item-title">Nefertiti · Take It Easy With Titi</h3>
                         <p class="work-item-desc">Comedy clips and cultural observations in Arabic, English, and whatever fits the joke. Performed across Malta.</p>
                         <div class="work-tags">
                             <span class="work-tag">Comedy</span>
@@ -1586,7 +1616,7 @@
                         <span class="work-arrow">↗</span>
                     </div>
                     <div class="work-item-bottom">
-                        <h3 class="work-item-title">Take It Easy With Titi</h3>
+                        <h3 class="work-item-title">Nefertiti · Take It Easy With Titi</h3>
                         <p class="work-item-desc">Comedy, storytelling, and cultural observations in text. Arabic, English, and whatever fits the joke.</p>
                         <div class="work-tags">
                             <span class="work-tag">Comedy</span>
@@ -1658,7 +1688,7 @@
                 <p class="section-label">About</p>
                 <p>Born in Cairo, shaped by everywhere else. I covered the Egyptian revolution, bylined in Al Jazeera English and Daily News Egypt, with research and field reporting for The Washington Post, NPR, AP and Newsweek, then spent two years at Google in Sunnyvale. I've lived and worked across Europe, Latin America, Southeast Asia, and the Mediterranean, 44+ countries and counting. Journalism is published as Ragia Mostafa, no u.</p>
                 <p>Most recently I was Head of Marketing for a five-brand Malta hospitality group. There I drove €148.7K in direct booking revenue in five months across 20 source markets, at 6.1% booking-engine conversion and an 81.7% pre-arrival email open rate. Before that: German and French casino content for Casino.org's Luxembourg markets, casino reviews for Emirates Casino, and +40% YoY DACH organic growth at Game Lounge. I take revenue back from the aggregators, in whichever language the market actually thinks in.</p>
-                <p>When I'm not writing for the internet, I'm performing stand-up comedy in Valletta, roasting coffee at home, or explaining the etymology of an Arabic idiom to someone who didn't ask.</p>
+                <p>When I'm not writing for the internet, I'm performing stand-up comedy as Nefertiti in Valletta, roasting coffee at home, or explaining the etymology of an Arabic idiom to someone who didn't ask.</p>
             </div>
             <div class="about-details">
                 <div class="detail-block">
